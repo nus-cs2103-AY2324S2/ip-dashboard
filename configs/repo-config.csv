@@ -1,7 +1,6 @@
 Repository's Location,Branch,File Formats,Ignore Glob List,Ignore standalone config,Ignore Commits List,Ignore Authors List,Shallow Cloning,Find Previous Authors
 https://github.com/darryl-chan/ip.git,master,,tutorials/**;gradlew.bat,,,,,
 https://github.com/gowthaman-01/ip.git,master,,tutorials/**;gradlew.bat,,,,,
-https://github.com/zhuyifu/ip.git,master,,tutorials/**;gradlew.bat,,,,,
 https://github.com/ChrisHo1341/ip.git,master,,tutorials/**;gradlew.bat,,,,,
 https://github.com/sebin0817/ip.git,master,,tutorials/**;gradlew.bat,,,,,
 https://github.com/Morninggloryyy/ip.git,master,,tutorials/**;gradlew.bat,,,,,
